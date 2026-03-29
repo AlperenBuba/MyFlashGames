@@ -1,0 +1,9 @@
+The multi file games might not work because the flash settings on your device don't allow the game to use the other files that the swf needs to load in.
+In order to fix this you will have to replace the settings.sol file in your AppData folder. The specific path should look like this:
+C:\Users\(user)\AppData\Roaming\Macromedia\Flash Player\macromedia.com\support\flashplayer\sys (or use the shortcut provided)
+But it might be different depending on your system language. In this sys folder you will find a file called "settings.sol"
+You can rename this file to "oldsettings.sol" or whatever you prefer, this way you can always get your old file back if this fix somehow breaks something.
+Then you can paste the "settings.sol" that is in this folder into the sys folder and now the games should work.
+
+If this new settings file somehow ends up breaking something you can just delete it from the sys folder and rename the "oldsettings.sol" 
+back to "settings.sol".

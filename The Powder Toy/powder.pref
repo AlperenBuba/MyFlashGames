@@ -1,0 +1,40 @@
+{
+	"InstallCheck" : true,
+	"WindowX" : "0",
+	"WindowY" : "0",
+	"Renderer" : {
+		"ColourMode" : "0",
+		"DisplayModes" : [],
+		"RenderModes" : [
+			"3f380",
+			"ff00f270",
+			"400f381"
+		],
+		"GravityField" : false,
+		"Decorations" : false,
+		"DebugMode" : false
+	},
+	"Simulation" : {
+		"EdgeMode" : "0",
+		"NewtonianGravity" : "0",
+		"AmbientHeat" : "0",
+		"PrettyPowder" : "0"
+	},
+	"Decoration" : {
+		"Red" : "c8",
+		"Green" : "64",
+		"Blue" : "32",
+		"Alpha" : "ff"
+	},
+	"User" : {
+		"ID" : 138060,
+		"SessionID" : "E890344A8A25C1217046CF5FCB6922",
+		"SessionKey" : "FED7EED2BD",
+		"Username" : "mrpenguinb",
+		"Elevation" : "None"
+	},
+	"Fullscreen" : true,
+	"Console" : {
+		"History" : []
+	}
+}
